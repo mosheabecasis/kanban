@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-5b35d": {
+      "hosting": {
+        "kanban": [
+          "kanban-5b35d"
+        ]
+      }
+    }
+  }
+}
